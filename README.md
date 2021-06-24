@@ -2,4 +2,6 @@
 
 This program shows 3 layer waves using JavaScript.
 
-*THIS PROJECT IS STILL WORKING ON
+It used Sin graph and points to be seems like waves.
+
+<img src="https://github.com/Tonynology/3LayerWave/raw/master/3layerwave.gif" alt="Alt Text" style="max-width:100%;">
